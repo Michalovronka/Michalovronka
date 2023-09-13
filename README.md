@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michal Dvořák</h1>
 <h3 align="center">I would like to make some games and maybe working websites okok?</h3>
 
-- 🔭 I’m currently working on **Learning JS**
-
 - 🌱 I’m currently learning **JavaScript (HTML, CSS, bootstrap)**
 
 - 🤝 I’m looking for help with **Learning JS and a little bit of bootstrap**
 
-- 📝 I hope to learn **C#, Python (and maybe some day replicate Celeste)**
+- 📝 I hope to learn **C#, Python and some AI things (and maybe some day replicate Celeste)**
 
 - 💬 You can ask me about **Celeste and Geometry Dash**
 
