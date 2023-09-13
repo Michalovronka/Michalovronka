@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Learning JS and a little bit of bootstrap**
 
-- 📝 I hope to learn [C#, Python](C#, Python)
+- 📝 I hope to learn **C#, Python**
 
 - 💬 You can ask me about **Celeste and Geometry Dash**
 
