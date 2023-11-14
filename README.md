@@ -3,9 +3,18 @@
 
 - ⚡ Fun fact **✌🖖✌👇👇👆✋👍🤙🤘**
 
-- ⚡ Fun fact **💀Tohle je je můj Github💀**
+- 🧛‍♂️ Fun fact **💀Tohle je je můj Github💀**
 
 - ⚡ Fun fact **✌🖖✌👇👇👆✋👍🤙🤘**
+
+- ✉ Fun fact **💀Tohle je můj email: michal.dvorak.jo@gmail.com💀**
+  
+- ⚡ Fun fact **✌🖖✌👇👇👆✋👍🤙🤘**
+
+- 🤓 Fun fact **Učím se Javu, Javascript a plánuju se učit C#**
+
+- ⚡ Fun fact **✌🖖✌👇👇👆✋👍🤙🤘**
+  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
